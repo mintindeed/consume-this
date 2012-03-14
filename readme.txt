@@ -13,6 +13,13 @@ I made this plugin because I wanted a Delicious.com-like list of links I was loo
 
 It works by creating a custom post type ("Consumption") and custom taxonomy ("Consumable"), and an optional bookmarklet.  You enter the name of what you're consuming, an optional link, and an optional tag (the "Consumable" taxonomy) and that's it.  You can then display this list anywhere on your site -- a list of consumables in a tag cloud, a page with a list of consumptions, etc.
 
+Github: https://github.com/mintindeed/consume-this
+
+WordPress.org: http://wordpress.org/extend/plugins/consume-this/
+
+Image by [Henning Mühlinghaus](http://www.flickr.com/photos/muehlinghaus/3519033869/); some rights reserved.  See link for details.
+
+
 == Installation ==
 
 1. Unzip and upload the `consume-this` folder to your `/wp-content/plugins/` directory
